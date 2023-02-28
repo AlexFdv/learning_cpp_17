@@ -1,0 +1,173 @@
+[{
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_38_data_sampling/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_38_data_sampling",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_38_data_sampling/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_38_data_sampling/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_36_std_clamp/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_36_std_clamp",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_36_std_clamp/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_36_std_clamp/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_35_find_in_sorted_and_not_sorted_vectors/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_35_find_in_sorted_and_not_sorted_vectors",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_35_find_in_sorted_and_not_sorted_vectors/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_35_find_in_sorted_and_not_sorted_vectors/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_33_alrorithms_sorting/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_33_alrorithms_sorting",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_33_alrorithms_sorting/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_33_alrorithms_sorting/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_29_lambda_multicall/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_29_lambda_multicall",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_29_lambda_multicall/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_29_lambda_multicall/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_37_search_in_strings/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_37_search_in_strings",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_37_search_in_strings/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_37_search_in_strings/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_12_SFINAE/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_12_SFINAE",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_12_SFINAE/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_12_SFINAE/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_11_insert_into_map_sharedptr_with_lambda/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_11_insert_into_map_sharedptr_with_lambda",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_11_insert_into_map_sharedptr_with_lambda/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_11_insert_into_map_sharedptr_with_lambda/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_19_own_iterator/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_19_own_iterator",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_19_own_iterator/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_19_own_iterator/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_10_insert_into_map/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_10_insert_into_map",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_10_insert_into_map/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_10_insert_into_map/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_9_sorted_vector/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_9_sorted_vector",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_9_sorted_vector/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_9_sorted_vector/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_15_RPN_stack/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_15_RPN_stack",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_15_RPN_stack/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_15_RPN_stack/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables/process_monitor.h",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables/process_monitor.h -o /home/oleksii/projects/CPP_Lessons/Lesson_6_inline_variables/process_monitor.h.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_5_contexpr-if/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_5_contexpr-if",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_5_contexpr-if/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_5_contexpr-if/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_4_Constructor_types_inference/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_4_Constructor_types_inference",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_4_Constructor_types_inference/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_4_Constructor_types_inference/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_31_decart_multiply/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_31_decart_multiply",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_31_decart_multiply/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_31_decart_multiply/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_7_Fold_expressions/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_7_Fold_expressions",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_7_Fold_expressions/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_7_Fold_expressions/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_3_curve_brackets_initialization/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_3_curve_brackets_initialization",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_3_curve_brackets_initialization/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_3_curve_brackets_initialization/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_24_zip_util_with_iterators/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_24_zip_util_with_iterators",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_24_zip_util_with_iterators/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_24_zip_util_with_iterators/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_2_if_switch_narrowing/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_2_if_switch_narrowing",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_2_if_switch_narrowing/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_2_if_switch_narrowing/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_32_algorithms_copying/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_32_algorithms_copying",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_32_algorithms_copying/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_32_algorithms_copying/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/CPP_Lesson_13_istream_iterator/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/CPP_Lesson_13_istream_iterator",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/CPP_Lesson_13_istream_iterator/main.cpp -o /home/oleksii/projects/CPP_Lessons/CPP_Lesson_13_istream_iterator/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_16_CountWords_map/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_16_CountWords_map",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_16_CountWords_map/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_16_CountWords_map/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_41_prefix_tree/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_41_prefix_tree",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_41_prefix_tree/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_41_prefix_tree/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_8_vector_erase_remove/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_8_vector_erase_remove",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_8_vector_erase_remove/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_8_vector_erase_remove/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_30_transform_if_with_accumulate/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_30_transform_if_with_accumulate",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_30_transform_if_with_accumulate/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_30_transform_if_with_accumulate/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_1_structures_unwrapping/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_1_structures_unwrapping",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_1_structures_unwrapping/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_1_structures_unwrapping/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_17_multimap/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_17_multimap",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_17_multimap/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_17_multimap/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_20_iterator_wrappers/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_20_iterator_wrappers",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_20_iterator_wrappers/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_20_iterator_wrappers/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_18_priority_queue/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_18_priority_queue",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_18_priority_queue/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_18_priority_queue/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/test/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/test",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/test/main.cpp -o /home/oleksii/projects/CPP_Lessons/test/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_39_permutations/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_39_permutations",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_39_permutations/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_39_permutations/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_21_iterator_algorithm/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_21_iterator_algorithm",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_21_iterator_algorithm/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_21_iterator_algorithm/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_26_lambra_polymorphism_std_function/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_26_lambra_polymorphism_std_function",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_26_lambra_polymorphism_std_function/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_26_lambra_polymorphism_std_function/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_34_transform/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_34_transform",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_34_transform/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_34_transform/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_22_reverse_iterator/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_22_reverse_iterator",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_22_reverse_iterator/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_22_reverse_iterator/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_40_dict_merging/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_40_dict_merging",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_40_dict_merging/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_40_dict_merging/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_23_iterators_sentinel/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_23_iterators_sentinel",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_23_iterators_sentinel/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_23_iterators_sentinel/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_24_lambda_examples/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_24_lambda_examples",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_24_lambda_examples/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_24_lambda_examples/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_27_lambda_concatination_with_templates/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_27_lambda_concatination_with_templates",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_27_lambda_concatination_with_templates/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_27_lambda_concatination_with_templates/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_13_unordered_map/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_13_unordered_map",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_13_unordered_map/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_13_unordered_map/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "/home/oleksii/projects/CPP_Lessons/Lesson_28_lambda_logical_conjunction/main.cpp",
+  "directory": "/home/oleksii/projects/CPP_Lessons/Lesson_28_lambda_logical_conjunction",
+  "command": "/usr/bin/g++ -c /home/oleksii/projects/CPP_Lessons/Lesson_28_lambda_logical_conjunction/main.cpp -o /home/oleksii/projects/CPP_Lessons/Lesson_28_lambda_logical_conjunction/main.cpp.o -target x86_64-linux-gnu -I/usr/include/c++/9 -I/usr/include/x86_64-linux-gnu/c++/9 -I/usr/include/c++/9/backward -I/usr/lib/gcc/x86_64-linux-gnu/9/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
