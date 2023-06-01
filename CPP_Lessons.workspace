@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPP_Lessons" Database="" Version="10000">
+  <Project Name="Lesson_1_structures_unwrapping" Path="Lesson_1_structures_unwrapping/Lesson_1_structures_unwrapping.project" Active="No"/>
+  <Project Name="Lesson_2_if_switch_narrowing" Path="Lesson_2_if_switch_narrowing/Lesson_2_if_switch_narrowing.project" Active="No"/>
+  <Project Name="Lesson_3_curve_brackets_initialization" Path="Lesson_3_curve_brackets_initialization/Lesson_3_curve_brackets_initialization.project" Active="No"/>
+  <Project Name="Lesson_4_Constructor_types_inference" Path="Lesson_4_Constructor_types_inference/Lesson_4_Constructor_types_inference.project" Active="No"/>
+  <Project Name="Lesson_5_contexpr-if" Path="Lesson_5_contexpr-if/Lesson_5_contexpr-if.project" Active="No"/>
+  <Project Name="Lesson_6_inline_variables" Path="Lesson_6_inline_variables/Lesson_6_inline_variables.project" Active="No"/>
+  <Project Name="Lesson_7_Fold_expressions" Path="Lesson_7_Fold_expressions/Lesson_7_Fold_expressions.project" Active="No"/>
+  <Project Name="Lesson_8_vector_erase_remove" Path="Lesson_8_vector_erase_remove/Lesson_8_vector_erase_remove.project" Active="No"/>
+  <Project Name="Lesson_9_sorted_vector" Path="Lesson_9_sorted_vector/Lesson_9_sorted_vector.project" Active="No"/>
+  <Project Name="Lesson_10_insert_into_map" Path="Lesson_10_insert_into_map/Lesson_10_insert_into_map.project" Active="No"/>
+  <Project Name="Lesson_11_insert_into_map_sharedptr_with_lambda" Path="Lesson_11_insert_into_map_sharedptr_with_lambda/Lesson_11_insert_into_map_sharedptr_with_lambda.project" Active="No"/>
+  <Project Name="Lesson_12_SFINAE" Path="Lesson_12_SFINAE/Lesson_12_SFINAE.project" Active="No"/>
+  <Project Name="Lesson_13_unordered_map" Path="Lesson_13_unordered_map/Lesson_13_unordered_map.project" Active="No"/>
+  <Project Name="Lesson_14_istream_iterator" Path="CPP_Lesson_13_istream_iterator/CPP_Lesson_13_istream_iterator.project" Active="No"/>
+  <Project Name="Lesson_15_RPN_stack" Path="Lesson_15_RPN_stack/Lesson_15_RPN_stack.project" Active="No"/>
+  <Project Name="Lesson_16_CountWords_map" Path="Lesson_16_CountWords_map/Lesson_16_CountWords_map.project" Active="No"/>
+  <Project Name="Lesson_17_multimap" Path="Lesson_17_multimap/Lesson_17_multimap.project" Active="No"/>
+  <Project Name="Lesson_18_priority_queue" Path="Lesson_18_priority_queue/Lesson_18_priority_queue.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="Lesson_19_own_iterator" Path="Lesson_19_own_iterator/Lesson_19_own_iterator.project" Active="No"/>
+  <Project Name="Lesson_20_iterator_wrappers" Path="Lesson_20_iterator_wrappers/Lesson_20_iterator_wrappers.project" Active="No"/>
+  <Project Name="Lesson_21_iterator_algorithm" Path="Lesson_21_iterator_algorithm/Lesson_21_iterator_algorithm.project" Active="No"/>
+  <Project Name="Lesson_22_reverse_iterator" Path="Lesson_22_reverse_iterator/Lesson_22_reverse_iterator.project" Active="No"/>
+  <Project Name="Lesson_23_iterators_sentinel" Path="Lesson_23_iterators_sentinel/Lesson_23_iterators_sentinel.project" Active="No"/>
+  <Project Name="Lesson_24_zip_util_with_iterators" Path="Lesson_24_zip_util_with_iterators/Lesson_24_zip_util_with_iterators.project" Active="No"/>
+  <Project Name="Lesson_25_lambda_examples" Path="Lesson_24_lambda_examples/Lesson_24_lambda_examples.project" Active="No"/>
+  <Project Name="Lesson_26_lambda_pulymorphism_std_functions" Path="Lesson_26_lambra_polymorphism_std_function/Lesson_26_lambra_polymorphism_std_function.project" Active="No"/>
+  <Project Name="Lesson_27_lambda_concatination_with_templates" Path="Lesson_27_lambda_concatination_with_templates/Lesson_27_lambda_concatination_with_templates.project" Active="No"/>
+  <Project Name="Lesson_28_lambda_logical_conjunction" Path="Lesson_28_lambda_logical_conjunction/Lesson_28_lambda_logical_conjunction.project" Active="No"/>
+  <Project Name="Lesson_29_lambda_multicall" Path="Lesson_29_lambda_multicall/Lesson_29_lambda_multicall.project" Active="No"/>
+  <Project Name="Lesson_30_transform_if_with_accumulate" Path="Lesson_30_transform_if_with_accumulate/Lesson_30_transform_if_with_accumulate.project" Active="No"/>
+  <Project Name="Lesson_31_decart_multiply" Path="Lesson_31_decart_multiply/Lesson_31_decart_multiply.project" Active="No"/>
+  <Project Name="Lesson_32_algorithms_copying" Path="Lesson_32_algorithms_copying/Lesson_32_algorithms_copying.project" Active="No"/>
+  <Project Name="Lesson_33_alrorithms_sorting" Path="Lesson_33_alrorithms_sorting/Lesson_33_alrorithms_sorting.project" Active="No"/>
+  <Project Name="Lesson_34_transform" Path="Lesson_34_transform/Lesson_34_transform.project" Active="No"/>
+  <Project Name="Lesson_35_find_in_sorted_and_not_sorted_vectors" Path="Lesson_35_find_in_sorted_and_not_sorted_vectors/Lesson_35_find_in_sorted_and_not_sorted_vectors.project" Active="No"/>
+  <Project Name="Lesson_36_std_clamp" Path="Lesson_36_std_clamp/Lesson_36_std_clamp.project" Active="No"/>
+  <Project Name="Lesson_37_search_in_strings" Path="Lesson_37_search_in_strings/Lesson_37_search_in_strings.project" Active="No"/>
+  <Project Name="Lesson_38_data_sampling" Path="Lesson_38_data_sampling/Lesson_38_data_sampling.project" Active="No"/>
+  <Project Name="Lesson_39_permutations" Path="Lesson_39_permutations/Lesson_39_permutations.project" Active="No"/>
+  <Project Name="Lesson_40_dict_merging" Path="Lesson_40_dict_merging/Lesson_40_dict_merging.project" Active="No"/>
+  <Project Name="Lesson_41_prefix_tree" Path="Lesson_41_prefix_tree/Lesson_41_prefix_tree.project" Active="No"/>
+  <Project Name="Lesson_42_search_tips_with_prefix_tree" Path="Lesson_42_search_tips_with_prefix_tree/Lesson_42_search_tips_with_prefix_tree.project" Active="No"/>
+  <Project Name="Lesson_43_Fourier_transformation" Path="Lesson_43_Fourier_transformation/Lesson_43_Fourier_transformation.project" Active="No"/>
+  <Project Name="Lesson_44_Summary_Error_Detection" Path="Lesson_44_Summary_Error_Detection/Lesson_44_Summary_Error_Detection.project" Active="Yes"/>
+  <Project Name="Lesson_45_Manderlbrot" Path="Lesson_45_Manderlbrot/Lesson_45_Manderlbrot.project" Active="No"/>
+  <Project Name="Lesson_46_Split_algo" Path="Lesson_46_Split_algo/Lesson_46_Split_algo.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Lesson_1_structures_unwrapping" ConfigName="Debug"/>
+      <Project Name="Lesson_2_if_switch_narrowing" ConfigName="Debug"/>
+      <Project Name="Lesson_3_curve_brackets_initialization" ConfigName="Debug"/>
+      <Project Name="Lesson_4_Constructor_types_inference" ConfigName="Debug"/>
+      <Project Name="Lesson_5_contexpr-if" ConfigName="Debug"/>
+      <Project Name="Lesson_6_inline_variables" ConfigName="Debug"/>
+      <Project Name="Lesson_7_Fold_expressions" ConfigName="Debug"/>
+      <Project Name="Lesson_8_vector_erase_remove" ConfigName="Debug"/>
+      <Project Name="Lesson_9_sorted_vector" ConfigName="Debug"/>
+      <Project Name="Lesson_10_insert_into_map" ConfigName="Debug"/>
+      <Project Name="Lesson_11_insert_into_map_sharedptr_with_lambda" ConfigName="Debug"/>
+      <Project Name="Lesson_12_SFINAE" ConfigName="Debug"/>
+      <Project Name="Lesson_13_unordered_map" ConfigName="Debug"/>
+      <Project Name="Lesson_14_istream_iterator" ConfigName="Debug"/>
+      <Project Name="Lesson_15_RPN_stack" ConfigName="Debug"/>
+      <Project Name="Lesson_16_CountWords_map" ConfigName="Debug"/>
+      <Project Name="Lesson_17_multimap" ConfigName="Debug"/>
+      <Project Name="Lesson_18_priority_queue" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="Lesson_19_own_iterator" ConfigName="Debug"/>
+      <Project Name="Lesson_20_iterator_wrappers" ConfigName="Debug"/>
+      <Project Name="Lesson_21_iterator_algorithm" ConfigName="Debug"/>
+      <Project Name="Lesson_22_reverse_iterator" ConfigName="Debug"/>
+      <Project Name="Lesson_23_iterators_sentinel" ConfigName="Debug"/>
+      <Project Name="Lesson_24_zip_util_with_iterators" ConfigName="Debug"/>
+      <Project Name="Lesson_25_lambda_examples" ConfigName="Debug"/>
+      <Project Name="Lesson_26_lambda_pulymorphism_std_functions" ConfigName="Debug"/>
+      <Project Name="Lesson_27_lambda_concatination_with_templates" ConfigName="Debug"/>
+      <Project Name="Lesson_28_lambda_logical_conjunction" ConfigName="Debug"/>
+      <Project Name="Lesson_29_lambda_multicall" ConfigName="Debug"/>
+      <Project Name="Lesson_30_transform_if_with_accumulate" ConfigName="Debug"/>
+      <Project Name="Lesson_31_decart_multiply" ConfigName="Debug"/>
+      <Project Name="Lesson_32_algorithms_copying" ConfigName="Debug"/>
+      <Project Name="Lesson_33_alrorithms_sorting" ConfigName="Debug"/>
+      <Project Name="Lesson_34_transform" ConfigName="Debug"/>
+      <Project Name="Lesson_35_find_in_sorted_and_not_sorted_vectors" ConfigName="Debug"/>
+      <Project Name="Lesson_36_std_clamp" ConfigName="Debug"/>
+      <Project Name="Lesson_37_search_in_strings" ConfigName="Debug"/>
+      <Project Name="Lesson_38_data_sampling" ConfigName="Debug"/>
+      <Project Name="Lesson_39_permutations" ConfigName="Debug"/>
+      <Project Name="Lesson_40_dict_merging" ConfigName="Debug"/>
+      <Project Name="Lesson_41_prefix_tree" ConfigName="Debug"/>
+      <Project Name="Lesson_42_search_tips_with_prefix_tree" ConfigName="Debug"/>
+      <Project Name="Lesson_43_Fourier_transformation" ConfigName="Debug"/>
+      <Project Name="Lesson_44_Summary_Error_Detection" ConfigName="Debug"/>
+      <Project Name="Lesson_45_Manderlbrot" ConfigName="Debug"/>
+      <Project Name="Lesson_46_Split_algo" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Lesson_1_structures_unwrapping" ConfigName="Release"/>
+      <Project Name="Lesson_2_if_switch_narrowing" ConfigName="Release"/>
+      <Project Name="Lesson_3_curve_brackets_initialization" ConfigName="Release"/>
+      <Project Name="Lesson_4_Constructor_types_inference" ConfigName="Release"/>
+      <Project Name="Lesson_5_contexpr-if" ConfigName="Release"/>
+      <Project Name="Lesson_6_inline_variables" ConfigName="Release"/>
+      <Project Name="Lesson_7_Fold_expressions" ConfigName="Release"/>
+      <Project Name="Lesson_8_vector_erase_remove" ConfigName="Release"/>
+      <Project Name="Lesson_9_sorted_vector" ConfigName="Release"/>
+      <Project Name="Lesson_10_insert_into_map" ConfigName="Release"/>
+      <Project Name="Lesson_11_insert_into_map_sharedptr_with_lambda" ConfigName="Release"/>
+      <Project Name="Lesson_12_SFINAE" ConfigName="Release"/>
+      <Project Name="Lesson_13_unordered_map" ConfigName="Release"/>
+      <Project Name="Lesson_14_istream_iterator" ConfigName="Release"/>
+      <Project Name="Lesson_15_RPN_stack" ConfigName="Release"/>
+      <Project Name="Lesson_16_CountWords_map" ConfigName="Release"/>
+      <Project Name="Lesson_17_multimap" ConfigName="Release"/>
+      <Project Name="Lesson_18_priority_queue" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="Lesson_19_own_iterator" ConfigName="Release"/>
+      <Project Name="Lesson_20_iterator_wrappers" ConfigName="Release"/>
+      <Project Name="Lesson_21_iterator_algorithm" ConfigName="Release"/>
+      <Project Name="Lesson_22_reverse_iterator" ConfigName="Release"/>
+      <Project Name="Lesson_23_iterators_sentinel" ConfigName="Release"/>
+      <Project Name="Lesson_24_zip_util_with_iterators" ConfigName="Release"/>
+      <Project Name="Lesson_25_lambda_examples" ConfigName="Release"/>
+      <Project Name="Lesson_26_lambda_pulymorphism_std_functions" ConfigName="Release"/>
+      <Project Name="Lesson_27_lambda_concatination_with_templates" ConfigName="Release"/>
+      <Project Name="Lesson_28_lambda_logical_conjunction" ConfigName="Release"/>
+      <Project Name="Lesson_29_lambda_multicall" ConfigName="Release"/>
+      <Project Name="Lesson_30_transform_if_with_accumulate" ConfigName="Release"/>
+      <Project Name="Lesson_31_decart_multiply" ConfigName="Release"/>
+      <Project Name="Lesson_32_algorithms_copying" ConfigName="Release"/>
+      <Project Name="Lesson_33_alrorithms_sorting" ConfigName="Release"/>
+      <Project Name="Lesson_34_transform" ConfigName="Release"/>
+      <Project Name="Lesson_35_find_in_sorted_and_not_sorted_vectors" ConfigName="Release"/>
+      <Project Name="Lesson_36_std_clamp" ConfigName="Release"/>
+      <Project Name="Lesson_37_search_in_strings" ConfigName="Release"/>
+      <Project Name="Lesson_38_data_sampling" ConfigName="Release"/>
+      <Project Name="Lesson_39_permutations" ConfigName="Release"/>
+      <Project Name="Lesson_40_dict_merging" ConfigName="Release"/>
+      <Project Name="Lesson_41_prefix_tree" ConfigName="Release"/>
+      <Project Name="Lesson_42_search_tips_with_prefix_tree" ConfigName="Release"/>
+      <Project Name="Lesson_43_Fourier_transformation" ConfigName="Release"/>
+      <Project Name="Lesson_44_Summary_Error_Detection" ConfigName="Release"/>
+      <Project Name="Lesson_45_Manderlbrot" ConfigName="Release"/>
+      <Project Name="Lesson_46_Split_algo" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

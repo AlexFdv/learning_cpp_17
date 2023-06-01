@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Lesson_41_prefix_tree - Debug ]----------"
-	@cd "Lesson_41_prefix_tree" && "$(MAKE)" -f  "Lesson_41_prefix_tree.mk"
+	@echo "----------Building project:[ Lesson_46_Split_algo - Debug ]----------"
+	@cd "Lesson_46_Split_algo" && "$(MAKE)" -f  "Lesson_46_Split_algo.mk"
 clean:
-	@echo "----------Cleaning project:[ Lesson_41_prefix_tree - Debug ]----------"
-	@cd "Lesson_41_prefix_tree" && "$(MAKE)" -f  "Lesson_41_prefix_tree.mk" clean
+	@echo "----------Cleaning project:[ Lesson_46_Split_algo - Debug ]----------"
+	@cd "Lesson_46_Split_algo" && "$(MAKE)" -f  "Lesson_46_Split_algo.mk" clean
