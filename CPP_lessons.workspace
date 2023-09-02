@@ -46,7 +46,16 @@
   <Project Name="Lesson_45_Manderlbrot" Path="Lesson_45_Manderlbrot/Lesson_45_Manderlbrot.project" Active="No"/>
   <Project Name="Lesson_46_Split_algo" Path="Lesson_46_Split_algo/Lesson_46_Split_algo.project" Active="No"/>
   <Project Name="Lesson_24_zip_util_with_iterators" Path="Lesson_24_zip_util_with_iterators/Lesson_24_zip_util_with_iterators.project" Active="No"/>
-  <Project Name="Lesson_47_algos_based_on_gather" Path="Lesson_47_algos_based_on_gather/Lesson_47_algos_based_on_gather.project" Active="Yes"/>
+  <Project Name="Lesson_47_algos_based_on_gather" Path="Lesson_47_algos_based_on_gather/Lesson_47_algos_based_on_gather.project" Active="No"/>
+  <Project Name="Lesson_48_remove_spaces" Path="Lesson_48_remove_spaces/Lesson_48_remove_spaces.project" Active="No"/>
+  <Project Name="Lesson_49_compress_decompress_strings" Path="Lesson_49_compress_decompress_strings/Lesson_49_compress_decompress_strings.project" Active="No"/>
+  <Project Name="Lesson_50_strings_concat_and_transform" Path="Lesson_50_strings_concat_and_transform/Lesson_50_strings_concat_and_transform.project" Active="No"/>
+  <Project Name="Lesson_51_string_remove_spaces" Path="Lesson_51_string_remove_spaces/Lesson_51_string_remove_spaces.project" Active="No"/>
+  <Project Name="Lesson_52_string_view" Path="Lesson_52_using_strings_optimization/Lesson_52_using_strings_optimization.project" Active="No"/>
+  <Project Name="Lesson_53_user_input" Path="Lesson_53_user_input/Lesson_53_user_input.project" Active="No"/>
+  <Project Name="Lesson_54_words_counting" Path="Lesson_54_words_counting/Lesson_54_words_counting.project" Active="No"/>
+  <Project Name="Lesson_55_input_data_formatting" Path="Lesson_55_input_data_formatting/Lesson_55_input_data_formatting.project" Active="No"/>
+  <Project Name="Lesson_56_complex_objects_initialization" Path="Lesson_56_complex_objects_initialization/Lesson_56_complex_objects_initialization.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -97,6 +106,15 @@
       <Project Name="Lesson_46_Split_algo" ConfigName="Debug"/>
       <Project Name="Lesson_24_zip_util_with_iterators" ConfigName="Debug"/>
       <Project Name="Lesson_47_algos_based_on_gather" ConfigName="Debug"/>
+      <Project Name="Lesson_48_remove_spaces" ConfigName="Debug"/>
+      <Project Name="Lesson_49_compress_decompress_strings" ConfigName="Debug"/>
+      <Project Name="Lesson_50_strings_concat_and_transform" ConfigName="Debug"/>
+      <Project Name="Lesson_51_string_remove_spaces" ConfigName="Debug"/>
+      <Project Name="Lesson_52_string_view" ConfigName="Debug"/>
+      <Project Name="Lesson_53_user_input" ConfigName="Debug"/>
+      <Project Name="Lesson_54_words_counting" ConfigName="Debug"/>
+      <Project Name="Lesson_55_input_data_formatting" ConfigName="Debug"/>
+      <Project Name="Lesson_56_complex_objects_initialization" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -147,6 +165,15 @@
       <Project Name="Lesson_46_Split_algo" ConfigName="Release"/>
       <Project Name="Lesson_24_zip_util_with_iterators" ConfigName="Release"/>
       <Project Name="Lesson_47_algos_based_on_gather" ConfigName="Release"/>
+      <Project Name="Lesson_48_remove_spaces" ConfigName="Release"/>
+      <Project Name="Lesson_49_compress_decompress_strings" ConfigName="Release"/>
+      <Project Name="Lesson_50_strings_concat_and_transform" ConfigName="Release"/>
+      <Project Name="Lesson_51_string_remove_spaces" ConfigName="Release"/>
+      <Project Name="Lesson_52_string_view" ConfigName="Release"/>
+      <Project Name="Lesson_53_user_input" ConfigName="Release"/>
+      <Project Name="Lesson_54_words_counting" ConfigName="Release"/>
+      <Project Name="Lesson_55_input_data_formatting" ConfigName="Release"/>
+      <Project Name="Lesson_56_complex_objects_initialization" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
