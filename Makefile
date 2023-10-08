@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Lesson_56_complex_objects_initialization - Debug ]----------"
-	@cd "Lesson_56_complex_objects_initialization" && "$(MAKE)" -f  "Lesson_56_complex_objects_initialization.mk"
+	@echo "----------Building project:[ Lesson_59_output_forwarding - Debug ]----------"
+	@cd "Lesson_59_output_forwarding" && "$(MAKE)" -f  "Lesson_59_output_forwarding.mk"
 clean:
-	@echo "----------Cleaning project:[ Lesson_56_complex_objects_initialization - Debug ]----------"
-	@cd "Lesson_56_complex_objects_initialization" && "$(MAKE)" -f  "Lesson_56_complex_objects_initialization.mk" clean
+	@echo "----------Cleaning project:[ Lesson_59_output_forwarding - Debug ]----------"
+	@cd "Lesson_59_output_forwarding" && "$(MAKE)" -f  "Lesson_59_output_forwarding.mk" clean
